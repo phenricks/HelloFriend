@@ -5,7 +5,7 @@
 ##### VERSÃO:            0.1:[Test:*]                                          #####
 ##### DESCRIÇÃO:         Script criado com a finalidade de familiarização      #####
 #####                    com o shell script, para agilizar a configuração      #####
-#####			         do meu workspace.				                       #####
+#####			         do meu workspace.			       #####
 ##### DATA DA CRIAÇÃO:   09/07/2021                                            #####
 ##### ESCRITO POR:       Pedro Henrique                                        #####
 ##### E-MAIL:            pedrohricksilva@gmail.com                             #####
@@ -30,7 +30,7 @@
         remmina 
         remmina-plugin-rdp 
         remmina-plugin-secret
-	    openjdk-11-jre-headless
+	openjdk-11-jre-headless
     )
 
 # ---------------------------------------------------------------------- #
